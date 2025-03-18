@@ -1,0 +1,45 @@
+#header{
+    margin: 0%;
+    background-color: white;
+    border-color: aqua;
+}
+#nav bars{
+    display: flex;
+    justify-content: center;
+    align-items: normal;
+    margin: 40px;
+}
+#moving day{
+    width: 700px;
+    height: 300px;
+}
+.service{
+    display: flex;
+}
+.All services{
+    display: flex;
+}choices{
+    margin: auto;
+    width: 0%;
+    height: 60px;
+}
+#right side bookings{
+
+
+}
+.form{
+    margin-top: 40px;
+    width: 100px;
+
+}
+.Testimonials{
+ padding: 100px;
+}
+.blog{
+    padding: 50px;
+    
+}
+.movers{
+    display: flex;
+    gap: 200px;
+}
